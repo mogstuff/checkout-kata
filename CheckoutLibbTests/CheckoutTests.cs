@@ -12,7 +12,16 @@ namespace CheckoutLibb.Tests
         [TestMethod()]
         public void GetTotalTest()
         {
-            Assert.Fail();
+            var sut = new Checkout();
+
+            sut.Items.Add(new Item { SKU = "ACME01", UnitPrice = 2.00M });
+            sut.Items.Add(new Item { SKU = "ACME01", UnitPrice = 2.00M });
+            sut.Items.Add(new Item { SKU = "ACME01", UnitPrice = 2.00M });
+
+            decimal expectedTotal = 6.00M;
+            decimal total = sut.GetTotal(sut.Items);
+
+            Assert.AreEqual(expectedTotal, total);
         }
 
         [TestMethod()]
