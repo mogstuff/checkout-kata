@@ -18,7 +18,13 @@ namespace CheckoutLibb.Tests
         [TestMethod()]
         public void ScanItemTest()
         {
-            Assert.Fail();
+            var sut = new Checkout();
+
+            var item = new Item { SKU = "ACME01", UnitPrice = 2.00M };
+
+            sut.ScanItem(item);
+
+            Assert.IsTrue(sut.Items.Count == 1);
         }
     }
 }

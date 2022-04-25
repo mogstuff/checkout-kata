@@ -1,0 +1,9 @@
+C:\sandbox\checkout-kata\CheckoutKata\CheckoutLibb\bin\Debug\netcoreapp3.1\CheckoutLibb.deps.json
+C:\sandbox\checkout-kata\CheckoutKata\CheckoutLibb\bin\Debug\netcoreapp3.1\CheckoutLibb.dll
+C:\sandbox\checkout-kata\CheckoutKata\CheckoutLibb\bin\Debug\netcoreapp3.1\CheckoutLibb.pdb
+C:\sandbox\checkout-kata\CheckoutKata\CheckoutLibb\obj\Debug\netcoreapp3.1\CheckoutLibb.csprojAssemblyReference.cache
+C:\sandbox\checkout-kata\CheckoutKata\CheckoutLibb\obj\Debug\netcoreapp3.1\CheckoutLibb.AssemblyInfoInputs.cache
+C:\sandbox\checkout-kata\CheckoutKata\CheckoutLibb\obj\Debug\netcoreapp3.1\CheckoutLibb.AssemblyInfo.cs
+C:\sandbox\checkout-kata\CheckoutKata\CheckoutLibb\obj\Debug\netcoreapp3.1\CheckoutLibb.csproj.CoreCompileInputs.cache
+C:\sandbox\checkout-kata\CheckoutKata\CheckoutLibb\obj\Debug\netcoreapp3.1\CheckoutLibb.dll
+C:\sandbox\checkout-kata\CheckoutKata\CheckoutLibb\obj\Debug\netcoreapp3.1\CheckoutLibb.pdb

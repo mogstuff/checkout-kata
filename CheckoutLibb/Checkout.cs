@@ -1,9 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace CheckoutLibb
 {
     public class Checkout
     {
+
+        public List<Item> Items { get; set; } = new List<Item>();
         public decimal GetTotal() 
         {
             return 0.00M;
@@ -11,7 +14,7 @@ namespace CheckoutLibb
 
         public void ScanItem(Item item) 
         {
-        
+            Items.Add(item);
         }
 
 
