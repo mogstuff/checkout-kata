@@ -14,12 +14,26 @@ namespace CheckoutLibb.Tests
         {
             var sut = new Checkout();
 
-            sut.Items.Add(new Item { SKU = "ACME01", UnitPrice = 2.00M });
-            sut.Items.Add(new Item { SKU = "ACME01", UnitPrice = 2.00M });
-            sut.Items.Add(new Item { SKU = "ACME01", UnitPrice = 2.00M });
+            // checkout items
+            sut.Items.Add(new Item { SKU = "A99", UnitPrice = 0.50M });
+            sut.Items.Add(new Item { SKU = "A99", UnitPrice = 0.50M });
+            sut.Items.Add(new Item { SKU = "A99", UnitPrice = 0.50M });
+            sut.Items.Add(new Item { SKU = "A99", UnitPrice = 0.50M });
 
-            decimal expectedTotal = 6.00M;
-            decimal total = sut.GetTotal(sut.Items);
+
+            sut.Items.Add(new Item { SKU = "B15", UnitPrice = 0.30M });
+            sut.Items.Add(new Item { SKU = "B15", UnitPrice = 0.30M });
+            sut.Items.Add(new Item { SKU = "B15", UnitPrice = 0.30M });
+
+            sut.Items.Add(new Item { SKU = "C40", UnitPrice = 0.60M });
+
+            // special offers
+            sut.Offers.Add(new SpecialOffer { SKU = "A99", Quantity = 3, OfferPrice = 1.30M });
+            sut.Offers.Add(new SpecialOffer { SKU = "B15", Quantity = 2, OfferPrice = 0.45M });
+
+            decimal total = sut.GetTotal(sut.Items, sut.Offers);
+
+            decimal expectedTotal = 3.15M;
 
             Assert.AreEqual(expectedTotal, total);
         }
