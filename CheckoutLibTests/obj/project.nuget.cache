@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RiWX8SFT7aedbjBOq4gE69aenxuloPDgOymBxBcgPE4P3PQY9UXwXQwQgQM/v8J5WvbMCYQukJ+PEzT83Kw4Tg==",
+  "dgSpecHash": "BTNuPKTD+mY9118DSrE3vYWf4Jl2d7oUemwZZL67bOud34yNDwahRMaXG0/718L8NgPEQXEm227Lzno8pZLpYQ==",
   "success": true,
-  "projectFilePath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibbTests\\CheckoutLibTests.csproj",
+  "projectFilePath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibTests\\CheckoutLibTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mark.DESKTOP-0545E47\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Mark.DESKTOP-0545E47\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

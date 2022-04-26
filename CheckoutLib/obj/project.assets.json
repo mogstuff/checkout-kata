@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLib.csproj",
+      "projectUniqueName": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLib\\CheckoutLib.csproj",
       "projectName": "CheckoutLib",
-      "projectPath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLib.csproj",
+      "projectPath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLib\\CheckoutLib.csproj",
       "packagesPath": "C:\\Users\\Mark.DESKTOP-0545E47\\.nuget\\packages\\",
-      "outputPath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\obj\\",
+      "outputPath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mark.DESKTOP-0545E47\\AppData\\Roaming\\NuGet\\NuGet.Config",

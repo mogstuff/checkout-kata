@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutLibb", "CheckoutLibb\CheckoutLibb.csproj", "{D3501316-311C-4839-B619-1D5796C66C5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutLib", "CheckoutLib\CheckoutLib.csproj", "{D3501316-311C-4839-B619-1D5796C66C5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutLibbTests", "CheckoutLibbTests\CheckoutLibbTests.csproj", "{60CFCCEC-51DA-43AE-B397-FA13D70DAA9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutLibTests", "CheckoutLibTests\CheckoutLibTests.csproj", "{60CFCCEC-51DA-43AE-B397-FA13D70DAA9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

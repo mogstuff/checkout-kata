@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": ".NETCoreApp,Version=v3.1",
             "projectReferences": {
-              "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLibb.csproj": {
-                "projectPath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLibb.csproj"
+              "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLib.csproj": {
+                "projectPath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLib.csproj"
               }
             }
           }
@@ -80,12 +80,12 @@
         }
       }
     },
-    "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLibb.csproj": {
+    "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLibb.csproj",
-        "projectName": "CheckoutLibb",
-        "projectPath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLibb.csproj",
+        "projectUniqueName": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLib.csproj",
+        "projectName": "CheckoutLib",
+        "projectPath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLib.csproj",
         "packagesPath": "C:\\Users\\Mark.DESKTOP-0545E47\\.nuget\\packages\\",
         "outputPath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\obj\\",
         "projectStyle": "PackageReference",

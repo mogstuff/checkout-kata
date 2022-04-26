@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qNohDfU6+Qwfo1wgf3sA6IyqsVXJUsSXqYy1N/nWyrxaPbm4esj3CXJuy18YD5lDZ4j9dhAAa5Y/uB8Ruu8QnA==",
+  "dgSpecHash": "ixEJIZicTfk57GDgEputMnIx8dJBAbE6w+pfcLmTUy1+exiFRsS+WJcblporLtL8s9PkP4GMzXfu0/jHYOjHBA==",
   "success": true,
-  "projectFilePath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLibb.csproj",
+  "projectFilePath": "C:\\sandbox\\checkout-kata\\CheckoutKata\\CheckoutLibb\\CheckoutLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
