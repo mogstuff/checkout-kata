@@ -24,19 +24,4 @@ namespace CheckoutLibb
 
     }
 
-
-    public class Item
-    {
-        public string SKU { get; set; }
-        public decimal UnitPrice { get; set; }
-    }
-
-    public class SpecialOffer1
-    {
-        public string SKU { get; set; }
-
-        public int Quantity { get; set; }
-        public decimal OfferPrice { get; set; }
-    }
-
 }
